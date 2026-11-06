@@ -1,0 +1,25 @@
+/* Estilos generales de la página */
+body {
+  font-family: Arial, sans-serif; /* Fuente principal del sitio */
+  background-color: #f4f4f4;      /* Fondo gris claro */
+  text-align: center;             /* Centra el contenido horizontalmente */
+  padding: 50px;                  /* Espacio interno alrededor del contenido */
+}
+
+/* Estilos para el título principal */
+h1 {
+  color: #333; /* Color gris oscuro */
+}
+
+/* Estilos para las imágenes */
+img {
+  border-radius: 50%;      /* Convierte la imagen en un círculo */
+  border: 3px solid #333;  /* Agrega un borde gris oscuro de 3 píxeles */
+}
+
+/* Estilos para los párrafos */
+p {
+  max-width: 400px;    /* Limita el ancho máximo del texto */
+  margin: 20px auto;   /* Centra el párrafo y agrega margen vertical */
+  color: #555;         /* Color gris medio para el texto */
+}
