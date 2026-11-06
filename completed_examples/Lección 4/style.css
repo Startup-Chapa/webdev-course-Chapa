@@ -1,0 +1,22 @@
+body {
+  background-color: #f0f4ff;  /* azul muy claro */
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: red;
+  font-family: Arial;
+  font-size: 55px;
+  text-align: center;
+}
+p {
+  color: #444444;       /* gris oscuro */
+  font-size: 16px;
+}
+.tarjeta {
+  background-color: white;
+  border: 12px solid #2c3e90;
+  width: 300px;
+  margin: 10px auto;    /* centrar la caja */
+  padding: 20px;
+}
