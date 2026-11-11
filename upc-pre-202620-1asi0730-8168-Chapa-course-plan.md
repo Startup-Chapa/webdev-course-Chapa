@@ -25,9 +25,9 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.<br>
 - **Práctica**: [Aplica los elementos básicos](https://codepen.io/Johan-Bottger/pen/BypWOdW) 👈 **¡No es necesario registrarse!**
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://youtu.be/TeMVaMuSCEM?si=D4M5os5AkpgRIneS)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: white; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/CODE-MON/pen/vEgXQzG) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/editor/mstardev/pen/01a1c735-2b9e-75d2-a8ee-28791c636891) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Creación de página (tutorial simple) (7 minutos)
 - **Descripción**: Pon a prueba el conocimiento aprendido de HTML y CSS para crear una página web simple.
 - **Enlace**: [Ver la lección]()
