@@ -23,13 +23,13 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.<br>
 
 ### Lección 3: Elementos HTML comunes (6 minutos)
 - **Descripción**: Conoce los elementos más usados en HTML
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://youtu.be/gHYW_lKIk3s?si=vdr6sLkVRIlXQ6dT)
 - **Consejos clave**: Agregar referencias, encabezados, imágenes y enlaces.
-- **Práctica**: [Aplica los elementos básicos]() 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplica los elementos básicos](https://codepen.io/editor/mstardev/pen/01a1c587-326d-77d3-a38c-ade9cc341054) 👈 **¡No es necesario registrarse!**
 
 ### Lección 4: Introducción a CSS (7 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección]( https://youtu.be/gHYW_lKIk3s?si=vdr6sLkVRIlXQ6dT)
+- **Enlace**: [Ver la lección]()
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: white; }`.
 - **Práctica**: [Aplicar estilo con un clic]() 👈 **¡No es necesario registrarse!**
 
