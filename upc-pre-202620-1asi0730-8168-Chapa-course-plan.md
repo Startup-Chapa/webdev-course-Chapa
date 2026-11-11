@@ -41,7 +41,7 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.<br>
 
 ### Lección 6: Errores comunes y recomendaciones en el desarrollo web (7 minutos)
 - **Descripción**: Conoce errores comunes que los desarrolladores cometen en el desarrollo web y aprende consejos para principiantes.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://youtu.be/6Wootn4GOoQ?si=Ca_jWp6HxudvuQuK)
 - **Consejos clave**: Documentación, Accesibilidad, Buenas prácticas.
 
 ## Recursos Adicionales
