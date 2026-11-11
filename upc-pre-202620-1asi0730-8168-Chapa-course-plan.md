@@ -12,7 +12,7 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.<br>
 ## Secuencia de la lección
 ### Lección 1: Introducción al desarrollo web (5 minutos)
 - *Descripción*: Conoce los usos principales de los sitios web y una introducción básica a su estructura.
-- *Enlace*: [Ver la lección]()
+- *Enlace*: [Ver la lección](https://youtu.be/HxRkj1a5XwM?si=N6bDik_40S04t-UP)
 - *Consejos clave*: Reconocer la estructura de un sitio web, sus usos y los componentes del desarrollo web.
 
 ### Lección 2: Estructura HTML Básica (7 minutos)
