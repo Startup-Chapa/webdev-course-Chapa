@@ -12,35 +12,35 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.<br>
 ## Secuencia de la lección
 ### Lección 1: Introducción al desarrollo web (5 minutos)
 - *Descripción*: Conoce los usos principales de los sitios web y una introducción básica a su estructura.
-- *Enlace*: [Ver la lección](https://youtu.be/HxRkj1a5XwM?si=N6bDik_40S04t-UP)
+- *Enlace*: [https://youtu.be/HxRkj1a5XwM?si=N6bDik_40S04t-UP](https://youtu.be/HxRkj1a5XwM?si=N6bDik_40S04t-UP)
 - *Consejos clave*: Reconocer la estructura de un sitio web, sus usos y los componentes del desarrollo web.
 
 ### Lección 2: Estructura HTML Básica (7 minutos)
 - **Descripción**: Aprende la estructura básica de una página utilizando HTML
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [https://youtu.be/33_2xf6xONg?si=8vXN_L3qTv3Ikw2P](https://youtu.be/33_2xf6xONg?si=8vXN_L3qTv3Ikw2P)
 - **Consejos clave**: Utilizar etiquetas y atributos para crear tu primera página.
-- **Práctica**: [Crea tu primera estructura HTML]() 👈 **¡No es necesario registrarse!**
+- **Práctica**: [https://codepen.io/editor/mstardev/pen/01a1c734-302d-77c5-b896-33f39257edaa](https://codepen.io/editor/mstardev/pen/01a1c734-302d-77c5-b896-33f39257edaa) 👈 **¡No es necesario registrarse!**
 
 ### Lección 3: Elementos HTML comunes (6 minutos)
 - **Descripción**: Conoce los elementos más usados en HTML
-- **Enlace**: [Ver la lección](https://youtu.be/gHYW_lKIk3s?si=vdr6sLkVRIlXQ6dT)
+- **Enlace**: [https://youtu.be/gHYW_lKIk3s?si=vdr6sLkVRIlXQ6dT](https://youtu.be/gHYW_lKIk3s?si=vdr6sLkVRIlXQ6dT)
 - **Consejos clave**: Agregar referencias, encabezados, imágenes y enlaces.
-- **Práctica**: [Aplica los elementos básicos](https://codepen.io/editor/mstardev/pen/01a1c587-326d-77d3-a38c-ade9cc341054) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [https://codepen.io/editor/mstardev/pen/01a1c587-326d-77d3-a38c-ade9cc341054](https://codepen.io/editor/mstardev/pen/01a1c587-326d-77d3-a38c-ade9cc341054) 👈 **¡No es necesario registrarse!**
 
 ### Lección 4: Introducción a CSS (7 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://youtu.be/TeMVaMuSCEM?si=D4M5os5AkpgRIneS)
+- **Enlace**: [https://youtu.be/TeMVaMuSCEM?si=D4M5os5AkpgRIneS](https://youtu.be/TeMVaMuSCEM?si=D4M5os5AkpgRIneS)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: white; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/editor/mstardev/pen/01a1c735-2b9e-75d2-a8ee-28791c636891) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [https://codepen.io/editor/mstardev/pen/01a1c735-2b9e-75d2-a8ee-28791c636891](https://codepen.io/editor/mstardev/pen/01a1c735-2b9e-75d2-a8ee-28791c636891) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Creación de página (tutorial simple) (7 minutos)
 - **Descripción**: Pon a prueba el conocimiento aprendido de HTML y CSS para crear una página web simple.
-- **Enlace**: [Ver la lección](https://youtu.be/dfddnsA7nMI?si=flhVmd5VweQTd5wU)
+- **Enlace**: [https://youtu.be/dfddnsA7nMI?si=flhVmd5VweQTd5wU](https://youtu.be/dfddnsA7nMI?si=flhVmd5VweQTd5wU)
 - **Consejos clave**: Crea una estructura con HTML y dale estilo con CSS.
-- **Práctica**: [Pon a prueba lo aprendido](https://codepen.io/editor/mstardev/pen/01a1c77c-4ea8-722e-878e-e32f6e975b08) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [https://codepen.io/editor/mstardev/pen/01a1c77c-4ea8-722e-878e-e32f6e975b08](https://codepen.io/editor/mstardev/pen/01a1c77c-4ea8-722e-878e-e32f6e975b08) 👈 **¡No es necesario registrarse!**
 
 ### Lección 6: Errores comunes y recomendaciones en el desarrollo web (7 minutos)
 - **Descripción**: Conoce errores comunes que los desarrolladores cometen en el desarrollo web y aprende consejos para principiantes.
-- **Enlace**: [Ver la lección](https://youtu.be/6Wootn4GOoQ?si=Ca_jWp6HxudvuQuK)
+- **Enlace**: [https://youtu.be/6Wootn4GOoQ?si=Ca_jWp6HxudvuQuK](https://youtu.be/6Wootn4GOoQ?si=Ca_jWp6HxudvuQuK)
 - **Consejos clave**: Documentación, Accesibilidad, Buenas prácticas.
 
 ## Recursos Adicionales
