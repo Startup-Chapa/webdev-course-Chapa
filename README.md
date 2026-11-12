@@ -5,6 +5,7 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.<br>
 **Duración total**: 50 minutos<br>
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación<br>
 **Prerrequisitos**: Ninguno<br>
+**Editor de código**: [https://codepen.io/](https://codepen.io/)
 **Herramientas necesarias**:<br> **Navegador web** (Chrome, Firefox, Safari, Edge)<br> **Conexion a internet**
 <br>
 **📂 Repositorio de código fuente**: [https://github.com/Startup-Chapa/design-web-course-Chapa](https://github.com/Startup-Chapa/design-web-course-Chapa)
